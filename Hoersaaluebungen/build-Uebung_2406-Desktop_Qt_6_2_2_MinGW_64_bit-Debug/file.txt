@@ -1,0 +1,52 @@
+Film-DatenBank
+Eintraege: 10
+**********
+Titel:  Star Wars 
+Laenge: 125
+
+Genre: Science-Fiction
+**********
+Titel:  Die Verurteilten
+Laenge: 142
+
+Genre: Drama
+**********
+Titel:  Der Pate
+Laenge: 178
+
+Genre: Krimi
+**********
+Titel:  The Dark Knight
+Laenge: 152
+
+Genre: Action
+**********
+Titel:  Schindlers Liste
+Laenge: 197
+
+Genre: Drama
+**********
+Titel:  Der Herr der Ring
+Laenge: 228
+
+Genre: Fantasy
+**********
+Titel:  Pulp Fiction
+Laenge: 178
+
+Genre: Krimi
+**********
+Titel:  Inception
+Laenge: 262
+
+Genre: Action
+**********
+Titel:  Matrix
+Laenge: 136
+
+Genre: Science-Fiction
+**********
+Titel:  Avatar
+Laenge: 162
+
+Genre: Science-Fiction
